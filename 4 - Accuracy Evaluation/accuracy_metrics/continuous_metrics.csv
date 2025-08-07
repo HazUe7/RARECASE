@@ -1,0 +1,4 @@
+Feature,Type,MSE,Missing Total,Missing Match,Missing Match %
+Age (years),Continuous,0.0,0,0,
+Number of Main Group of Symptoms,Continuous,4.8,0,0,
+Length of Hospital Stay (days),Continuous,0.0,4,3,0.75
