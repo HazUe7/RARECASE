@@ -1,0 +1,5 @@
+Feature,Type,MSE,Missing Total,Missing Match,Missing Match %
+Age,Continuous,0.0,0,0,
+CSFWBCQuant,Continuous,0.0,1,1,1.0
+DaysToIT,Continuous,32.0,3,2,0.6666666666666666
+FinalMRS,Continuous,0.0,4,0,0.0

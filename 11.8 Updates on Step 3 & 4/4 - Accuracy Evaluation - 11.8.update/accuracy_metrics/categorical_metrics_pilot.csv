@@ -1,0 +1,2 @@
+Feature,Type,LogLoss,Classes,Missing Total,Missing Match,Missing Match %
+IT1stLineCombo,Categorical,9.010913347279288,"cs+ivig, cs+ivig+pe/ia, ivig only",1,1,1.0

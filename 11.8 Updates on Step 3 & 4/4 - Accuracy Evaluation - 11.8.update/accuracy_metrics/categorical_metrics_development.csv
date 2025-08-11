@@ -1,0 +1,2 @@
+Feature,Type,LogLoss,Classes,Missing Total,Missing Match,Missing Match %
+IT1stLineCombo,Categorical,13.037066119467907,"cs, cs only, cs+ivig, cs+ivig+pe/ia, cs+pe/ia, ivig, ivig only, ivig+cs, ivig+pe/ia, pe/ia only",13,9,0.6923076923076923
