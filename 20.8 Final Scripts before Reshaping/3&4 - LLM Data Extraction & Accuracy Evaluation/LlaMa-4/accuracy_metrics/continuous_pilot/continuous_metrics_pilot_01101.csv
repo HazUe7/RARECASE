@@ -1,0 +1,7 @@
+Feature,Type,MSE,NMSE,Missing Precision,Missing Recall,Number of Valid Cases
+Age,Continuous,0.0,0.0,,,5
+WorstMRSAcute,Continuous,13.6,27.2,,,5
+CSFWBCQuant,Continuous,0.0,0.0,,0.0,4
+DaysToIT,Continuous,21.666666666666668,0.16290726817042608,,0.0,3
+MonthsToFU,Continuous,7.828,0.4614749749454695,,,5
+FinalMRS,Continuous,4.8,1.4999999999999998,,,5

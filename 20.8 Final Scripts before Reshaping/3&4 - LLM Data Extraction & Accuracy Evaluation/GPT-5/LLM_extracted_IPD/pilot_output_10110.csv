@@ -1,0 +1,6 @@
+Study,Duration,Female,Age,SpeechDys,Seizures,MvmtDis,Obtunded,BrainstemDys,BehCogImp,ITU,WorstMRSAcute,EEGSlow,EEGDeltaBrush,EEGEpileptiform,CSFPleo,CSFWBCQuant,AbnMRIBrain,Tumour,DaysToIT,ITWithin30Days,IT1stLineCombo,IT2ndLineRTX,IT2ndLineCYC,IT2ndLineBort,IT2ndLineToc,ITMaintenanceMMF,ITMaintenanceAZA,ITMaintenanceMTX,IT6mSteroid,IT6mIVIG,MonthsToFU,FinalMRS,Relapse
+" Solís - Hasbun, 2016",60.89341402053833,1,29.0,0,1,1,1,1,1,1,5,1,0,0,1,68,1,1,24.0,1,CS+IVIG,1,0,0,0,0,0,0,0,0,2.0,5,0
+Tarula ,34.24121117591858,0,31.0,1,1,1,0,1,1,0,4,1,0,0,1,14,0,0,7.0,1,CS+IVIG,1,0,0,0,0,0,0,0,0,2.0,0,1
+Safadieh,43.738592863082886,1,4.0,1,0,1,1,1,1,0,5,1,0,0,0,4,0,0,7.0,1,IVIG only,0,0,0,0,0,0,0,0,0,2.5,0,0
+"Kurita - Mori, 2015 ",36.21739387512207,1,23.0,0,1,0,1,0,1,0,3,1,0,0,0,0,0,1,,0,None,0,0,0,0,0,0,0,0,0,3.3,1,0
+"Kim, Kim - Lee, 2016",33.29316020011902,1,3.0,1,1,1,1,1,1,0,5,1,1,1,0,2,0,0,28.0,1,CS+IVIG,1,0,0,0,0,0,0,0,0,12.0,3,0

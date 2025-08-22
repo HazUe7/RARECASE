@@ -1,0 +1,26 @@
+Feature,Type,Precision,Recall,F1,Balanced Accuracy,Missing Precision,Missing Recall,Number of Valid Cases
+Female,Binary,1.0,1.0,1.0,1.0,,,5
+SpeechDys,Binary,0.5,1.0,0.6666666666666666,0.875,,,5
+Seizures,Binary,0.75,1.0,0.8571428571428571,0.75,,,5
+MvmtDis,Binary,1.0,1.0,1.0,1.0,,,5
+Obtunded,Binary,0.6666666666666666,1.0,0.8,0.8333333333333333,,,5
+BrainstemDys,Binary,1.0,1.0,1.0,1.0,,,5
+BehCogImp,Binary,0.8,1.0,0.8888888888888888,0.5,,,5
+ITU,Binary,1.0,1.0,1.0,1.0,,,5
+EEGSlow,Binary,1.0,1.0,1.0,1.0,,,5
+EEGDeltaBrush,Binary,1.0,1.0,1.0,1.0,,,5
+EEGEpileptiform,Binary,0.0,,,0.8,,,5
+CSFPleo,Binary,1.0,1.0,1.0,1.0,,,5
+AbnMRIBrain,Binary,0.0,0.0,0.0,0.3333333333333333,,,5
+Tumour,Binary,1.0,1.0,1.0,1.0,,,5
+ITWithin30Days,Binary,0.75,1.0,0.8571428571428571,0.75,0.0,,5
+IT2ndLineRTX,Binary,0.6666666666666666,1.0,0.8,0.8333333333333333,,,5
+IT2ndLineCYC,Binary,,,,1.0,,,5
+IT2ndLineBort,Binary,,,,1.0,,,5
+IT2ndLineToc,Binary,,,,1.0,,,5
+ITMaintenanceMMF,Binary,,,,1.0,,,5
+ITMaintenanceAZA,Binary,,,,1.0,,,5
+ITMaintenanceMTX,Binary,,,,1.0,,,5
+IT6mSteroid,Binary,,,,1.0,,,5
+IT6mIVIG,Binary,,,,1.0,,,5
+Relapse,Binary,1.0,1.0,1.0,1.0,,,5

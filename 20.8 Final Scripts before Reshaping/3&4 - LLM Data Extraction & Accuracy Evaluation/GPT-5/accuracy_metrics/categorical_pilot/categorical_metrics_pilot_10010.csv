@@ -1,0 +1,2 @@
+Feature,Type,LogLoss,Missing Precision,Missing Recall
+IT1stLineCombo,Categorical,2.2204460492503136e-16,1.0,1.0
